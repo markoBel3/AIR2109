@@ -65,7 +65,7 @@ afterEvaluate {
                 // You can then customize attributes of the publication as shown below.
                 groupId = 'com.air2109'
                 artifactId = 'pic_edit_framework'
-                version = '1.1'
+                version = '1.3'
             }
         }
     }
